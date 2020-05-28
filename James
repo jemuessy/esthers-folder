@@ -1,0 +1,6 @@
+echo "#esther-folder">>ReadME.MD
+Got unit
+Got add README.MD
+Got commit-m"first commit"
+Git remote add origin https://github.com/jemuessy/esther folder.got
+Got push -origin master
